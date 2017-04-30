@@ -1,7 +1,6 @@
 import asyncio
 import random
 import time
-from common.cozmo_animation import CozmoAnimation
 import cozmo
 from common.custom_cube import CustomCube
 from cozmo.util import degrees, Pose
